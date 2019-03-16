@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61aeab3a362adc4fb849b8ccb263802, type: 3}
+  m_Name: AnimationConfig
+  m_EditorClassIdentifier: 
+  TimeToDealNextCardInitialShuffle: 0.03846154
+  DealSingleCardInitialShuffle: 0.2
+  playSingleCardDuration: 0.18
+  timeTillNextPopup: 1.7
+  scoredDeckReadOnly: 1
+  bustedDeckReadOnly: 1
+  lanePopupUpwardMotionDuration: 1
+  nonLanePopupUpwardMotionDuration: 1.5
+  moveTowardsMainScoreDuration: 0.5
+  shrinkPopupImage: 0.5
+  scoreIncrementingDuration: 1
+  UpwardMotionDurationCombos: 1
+  imageStartPositionCombo: {x: 0, y: -20, z: 0}
+  imageEndPositionCombo: {x: 0, y: 220, z: 0}
+  scoreStartPositionCombo: {x: 0, y: -180, z: 0}
+  scoreEndPositionCombo: {x: 0, y: 60, z: 0}
+  upwardMotionDurationRun21: 1
+  imageStartPosition21Run: {x: 0, y: -20, z: 0}
+  imageEndPosition21Run: {x: 0, y: 220, z: 0}
+  scoreStartPosition21Run: {x: 0, y: -180, z: 0}
+  scoreEndPosition21Run: {x: 0, y: 60, z: 0}
+  moveToBustedScoreDuration: 1
+  upwardMotionDurationBustedLane: 1
+  imageStartPositionBustedLane: {x: 0, y: -20, z: 0}
+  imageEndPositionBustedLane: {x: 0, y: 220, z: 0}
+  scoreStartPositionBustedLane: {x: 0, y: -180, z: 0}
+  scoreEndPositionBustedLane: {x: 0, y: 60, z: 0}
+  upwardMotionDuration5Card: 1
+  imageStartPosition5Card: {x: 0, y: -20, z: 0}
+  imageEndPosition5Card: {x: 0, y: 220, z: 0}
+  scoreStartPosition5Card: {x: 0, y: -180, z: 0}
+  scoreEndPosition5Card: {x: 0, y: 60, z: 0}
+  upwardMotionDurationWildcard: 1
+  imageStartPositionWildcard: {x: 0, y: -20, z: 0}
+  imageEndPositionWildcard: {x: 0, y: 220, z: 0}
+  scoreStartPositionWildcard: {x: 0, y: -180, z: 0}
+  scoreEndPositionWildcard: {x: 0, y: 60, z: 0}
+  upwardMotionDurationStreak: 1
+  imageStartPositionStreak: {x: 0, y: -20, z: 0}
+  imageEndPositionStreak: {x: 0, y: 220, z: 0}
+  scoreStartPositionStreak: {x: 0, y: -180, z: 0}
+  scoreEndPositionStreak: {x: 0, y: 60, z: 0}
+  upwardMotionDurationPerfectStreak: 1.5
+  imageStartPositionPerfectStreak: {x: 0, y: 35, z: 0}
+  imageEndPositionPerfectStreak: {x: 0, y: 850, z: 0}
+  scoreStartPositionPerfectStreak: {x: 0, y: -125, z: 0}
+  scoreEndPositionPerfectStreak: {x: 0, y: 710, z: 0}
+  upwardMotionDurationEmptyLaneBonus: 1
+  imageStartPositionEmptyLane: {x: 0, y: -20, z: 0}
+  imageEndPositionEmptyLane: {x: 0, y: 220, z: 0}
+  scoreStartPositionEmptyLane: {x: 0, y: -180, z: 0}
+  scoreEndPositionEmptyLane: {x: 0, y: 60, z: 0}
+  upwardMotionDurationNoBustBonus: 1.5
+  imageStartPositionNoBust: {x: 0, y: 35, z: 0}
+  imageEndPositionNoBust: {x: 0, y: 850, z: 0}
+  scoreStartPositionNoBust: {x: 0, y: -125, z: 0}
+  scoreEndPositionNoBust: {x: 0, y: 710, z: 0}
+  upwardMotionDurationPerfectScore: 1.5
+  imageStartPositionPerfectScore: {x: 0, y: 35, z: 0}
+  imageEndPositionPerfectScore: {x: 0, y: 850, z: 0}
+  scoreStartPositionPerfectScore: {x: 0, y: -125, z: 0}
+  scoreEndPositionPerfectScore: {x: 0, y: 710, z: 0}
+  upwardMotionDurationOutOfTime: 1.5
+  imageStartPositionOutOfTime: {x: 0, y: 35, z: 0}
+  imageEndPositionOutOfTime: {x: 0, y: 0, z: 0}
+  scoreStartPositionOutOfTime: {x: 0, y: -125, z: 0}
+  scoreEndPositionOutOfTime: {x: 0, y: 710, z: 0}
+  SingleCardMovingDurationFromAnimationDeckToClearedLane: 0.3
+  PauseBetweenDealingCardsFromAnimationDeckToClearedLane: 0.2
+  LastPlayedCardToActiveDeckAnimationDuration: 0.25
+  ActiveCardToDrawDeckAnimationDuration: 0.28

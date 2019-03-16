@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 46f4bf4a9c3eb11429e0d6ff5868dff2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockwell Condensed
+  fontNames:
+  - Rockwell Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2c3289fc9252a2f48b050f55bf927fdd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

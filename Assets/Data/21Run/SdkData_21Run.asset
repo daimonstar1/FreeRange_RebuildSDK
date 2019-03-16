@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2599f562ecf922499a05867be1979db, type: 3}
+  m_Name: SdkData_21Run
+  m_EditorClassIdentifier: 
+  Name: Friendly Wager 21 Run
+  Icon: {fileID: 21300000, guid: d79e730e32297524b8f4b32374fbb55e, type: 3}
+  SiteId: friendly_wager_21_run
+  idGameName: FW_21_RUN
+  versionOfGame: 1.0.0

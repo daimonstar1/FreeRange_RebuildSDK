@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99f40b9e842aff48a32c84e9810f8bd, type: 3}
+  m_Name: PopupFactory
+  m_EditorClassIdentifier: 
+  _run21ScorePopupPrefab: {fileID: 1547238490534202, guid: e94d4d3fa7891f74babdaf7767c4bf71,
+    type: 2}
+  _fiveCardScorePopupPrefab: {fileID: 1548587352585846, guid: 769b58fb36659324680f70d697636256,
+    type: 2}
+  _blackjackScorePopupPrefab: {fileID: 1511896306421066, guid: a3b0e7044c3271c438c938c923a9e0cd,
+    type: 2}
+  _goodRunStreakPopupPrefab: {fileID: 1915159507488972, guid: 3a98a2c31ae0afc4ab97c046db5727c7,
+    type: 2}
+  _greatRunStreakPopupPrefab: {fileID: 1071070839179310, guid: 7eecd00c05090e8408c206552357bdb8,
+    type: 2}
+  _amazingRunStreakPopupPrefab: {fileID: 1883942588549358, guid: 4378f45fed762ea4dbd2da4952ecfcc1,
+    type: 2}
+  _outstandingRunStreakPopupPrefab: {fileID: 1370842987951278, guid: aa00e20df549e57449e1d21b96092378,
+    type: 2}
+  _perfectRunStreakPopupPrefab: {fileID: 1875459977658864, guid: 739fec5bd1c25c04fb336e689a0cd9ba,
+    type: 2}
+  _animatedLanePopupPrefab: {fileID: 1209347746122178, guid: be4b13a6625850a42ab319d3b77a52cf,
+    type: 2}
+  _outOfTimePopupPrefab: {fileID: 1327079631259910, guid: 07056b0ec923b5043b76eb3d87c63480,
+    type: 2}
+  _emptyLaneBonusPopupPrefab: {fileID: 1791704095776856, guid: 546dc17a0caef5648b0e496f256c6daa,
+    type: 2}
+  _perfectGamePopupPrefab: {fileID: 1892406356374066, guid: 62e6bb464e823bd4fbce233dc8d7d45b,
+    type: 2}
+  _noBustBonusPopupPrefab: {fileID: 1315353586343962, guid: 2ed32090151605345a208fdb3c50ac4b,
+    type: 2}
+  _bustedLanePopupPrefab: {fileID: 1674443109282884, guid: 4fed9839c594933488936e7191f3703e,
+    type: 2}
+  _comboBonusPopupPrefab: {fileID: 1174924115870960, guid: 639512a91f9233144a1c6ffe43257c3e,
+    type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3df49b2412e11c54d9bcda0d00c02949, type: 3}
+  m_Name: CardGameData
+  m_EditorClassIdentifier: 
+  DisplayCardFactory: {fileID: 11400000, guid: 6e3382cef599b6244903b26ac0924f75, type: 2}
+  DisplayDeckFactory: {fileID: 11400000, guid: fbdd55ac205e7e24386b6dd466bded1b, type: 2}
+  GameTacoPrefab: {fileID: 1535506715321766, guid: 3eddad312397e467aa7ac6d8054fd414,
+    type: 3}
+  CardDrawHeight: -100
